@@ -1,3 +1,4 @@
+<? php
 class MGeoHashApi {
 	private $neighbors = [];
 	private $borders   = [];
